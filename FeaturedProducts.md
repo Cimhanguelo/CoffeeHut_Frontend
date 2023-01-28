@@ -1,9 +1,6 @@
-*   Latte
-*   Cappuccino
-*   Americano
-*   Espresso
-*   Flat White
-*   Flat Black
-*   Caramel Cortado
-*   Macchiato
-*   Mocha
+*   La Colombe
+*   Cafe Bustelo
+*   Intelligentsia's Choice
+*   Espresso: Stumptown Hair Bender
+*   Chicago French Press
+*   The Organic Coffee Co.
